@@ -1,3 +1,5 @@
 hello there
 
 line to diverge from practise branch 
+
+introduce merge conflict
